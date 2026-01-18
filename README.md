@@ -35,3 +35,7 @@ This project is made for **educational purposes only** and is not affiliated wit
 1. Clone the repository  
 2. Open `index.html` in your browser  
 3. Enjoy 🎶
+   
+Screenshots
+<img width="1901" height="862" alt="S2" src="https://github.com/user-attachments/assets/73b16635-d804-413f-bc81-000aeed0c5be" />
+<img width="1905" height="862" alt="S1" src="https://github.com/user-attachments/assets/a55968f4-0cd1-435f-a518-00b76b748b28" />
